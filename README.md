@@ -20,7 +20,7 @@ Example:
 [/signup]
 ```
 
-Type, min, and max can all be ommitted, and you'll get a signup sheet that only allows one
+Type, min, and max can all be omitted, and you'll get a signup sheet that only allows one
 option to be selected. Min and max are both optional for `type=multiple`.
 
 ## Configuration
