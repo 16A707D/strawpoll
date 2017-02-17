@@ -1,7 +1,6 @@
-# Event Signup Sheet for Discourse
+# Modified Strawpoll plugin for Discourse
 
-This is a modified polls plugin that shows the usernames of everyone that selected each option.
-![Signup Sheet Example](http://i.imgur.com/1FR6oiC.png)
+This is a modified strawpolls plugin that shows the usernames of everyone that selected each option.
 
 It has all the same basic features that are included in the default poll plugin, such as single
 and multiple choice signups, and min/max number of selections for multiple signups.
@@ -12,7 +11,6 @@ has signed up.
 
 It also adds a calendar button to the text editor that automatically adds the markup for a
 signup sheet to the post you're editing.
-![Markup Example](http://i.imgur.com/R8dQuZy.png)
 
 ## Usage
 Pretty much identical to the official polls plugin, just with 'signup' substituted for 'poll'
