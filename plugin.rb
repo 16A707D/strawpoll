@@ -1,8 +1,7 @@
 # name: signups
 # about: Create signup options for events
-# version: 0.4
-# authors: Noah Lackstein, based on work by Vikhyat Korrapati (vikhyat), Régis Hanol (zogstrip)
-# url: https://github.com/lackstein/discourse_signups
+# version: 0.5
+# url: https://github.com/16A707D/strawpoll.git
 
 enabled_site_setting :signup_enabled
 
